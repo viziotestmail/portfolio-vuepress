@@ -35,4 +35,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/another-new-thing.md
 - portfolio/works/what-the-hell.md
