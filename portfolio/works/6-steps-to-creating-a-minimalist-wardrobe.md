@@ -1,7 +1,7 @@
 ---
 title: 6 Steps To Creating A Minimalist Wardrobe
 thumbnail: "/upload/grana_Capsule_Jan17_Female2_FTR.jpg"
-description: "/Jess"
+description: "/ by Jess"
 categories: []
 year: 2019
 date: 
