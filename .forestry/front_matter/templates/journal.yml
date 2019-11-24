@@ -19,3 +19,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/10-ways-to-stay-productive-at-home.md
