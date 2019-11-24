@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Studio Miniml</strong>, we work for brands. But most importantly,
-  we work for fun."
+hero_text: "<strong>We're Studio Miniml</strong>, perfecting the art of modern minimalism
+  through fashion, beauty, and home decor."
 title: Hero
 
 ---
