@@ -1,8 +1,7 @@
 ---
 title: 5 Must Have Pieces for a Minimalist Wardrobe
 thumbnail: "/upload/grana_Capsule_Jan17_Male4-1199x800.jpg"
-description: Get these 5 pieces to build a wardrobe that's functional, versatile and
-  actually wearable.
+description: "/Jess"
 categories: []
 year: 2019
 date: 
