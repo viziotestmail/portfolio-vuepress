@@ -1,8 +1,7 @@
 ---
 title: 6 Steps To Creating A Minimalist Wardrobe
 thumbnail: "/upload/grana_Capsule_Jan17_Female2_FTR.jpg"
-description: "“Minimalism has never been about deprivation. Rather, minimalism is
-  about getting rid of life’s excess in favor of the essential.”"
+description: "/Jess"
 categories: []
 year: 2019
 date: 
