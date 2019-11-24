@@ -1,7 +1,7 @@
 ---
 title: 10 Ways to Stay Productive At Home
 thumbnail: "/upload/minimalist-home-office-space-artsy.jpg"
-description: "/Jess"
+description: "/ by Jess"
 categories: []
 year: 2019
 date: 
