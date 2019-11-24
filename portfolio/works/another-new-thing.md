@@ -7,7 +7,7 @@ year: 1977
 date: 
 
 ---
-hello
+{% include video id="212731897" provider="vimeo" %}hello
 
 ![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
 
@@ -20,4 +20,8 @@ hello
 https://www.youtube.com/watch?v=Ce0PxkJiE0Y
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ce0PxkJiE0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include video id="212731897" provider="vimeo" %}
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
 
