@@ -1,7 +1,7 @@
 ---
 title: 5 Must Have Pieces for a Minimalist Wardrobe
 thumbnail: "/upload/grana_Capsule_Jan17_Male4-1199x800.jpg"
-description: "/Jess"
+description: "/ by Jess"
 categories: []
 year: 2019
 date: 
