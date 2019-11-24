@@ -1,9 +1,7 @@
 ---
 title: 10 Ways to Stay Productive At Home
 thumbnail: "/upload/minimalist-home-office-space-artsy.jpg"
-description: Over the years I’ve figured out what works for me and I thought it would
-  be helpful to share some of the simple ways I stay focused and productive while
-  I’m working chez moi.
+description: "/Jess"
 categories: []
 year: 2019
 date: 
