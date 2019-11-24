@@ -35,9 +35,9 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/another-new-thing.md
 - portfolio/works/6-steps-to-creating-a-minimalist-wardrobe.md
 - portfolio/works/5-must-have-pieces-for-a-minimalist-wardrobe.md
 - portfolio/works/10-ways-to-stay-productive-at-home.md
 - portfolio/works/what-the-hell.md
-- portfolio/works/another-new-thing.md
 - portfolio/works/another-new-thing.md
