@@ -7,6 +7,8 @@ year: 2019
 date: 
 
 ---
+![](/upload/minimalist-home-office-space-artsy.jpg)
+
 One question I get asked a lot when I tell people that I work from home is, ‘How do you get anything done?’, which is of course, a totally fair question. The truth is, at first, I didn’t work so effectively at home. I had to learn the hard way that if I wanted to enjoy the freedom that working from home offers, I would need to stay focused and get sh*t done! Otherwise the deadlines stack up and the weekends disappear. I’ve also learned that productivity, like any habit, requires consistency and follow-through to be sustainable.
 
 I’m very fortunate to have the option to work from home at this time in my career and while it’s not an ideal environment for everyone, most folks will find themselves working from home occasionally. Over the years I’ve figured out what works for me and I thought it would be helpful to share some of the simple ways I stay focused and productive while I’m working chez moi. _Let’s take a look!_
