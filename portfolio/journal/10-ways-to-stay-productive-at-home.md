@@ -11,7 +11,7 @@ I’m very fortunate to have the option to work from home at this time in my car
 
 ***
 
-![STYLE BEE - HOW I STAY PRODUCTIVE WORKING FROM HOME ](https://i1.wp.com/www.stylebee.ca/wp-content/uploads/2019/04/StyelBee_DeskProductivity_F.jpg?zoom=2&ssl=1 =750x1125)
+![](https://i.pinimg.com/474x/14/93/d0/1493d0f5d314af937f730897dad43494--workspace-inspiration-interior-design-inspiration.jpg)
 
 ***
 
@@ -35,7 +35,7 @@ Getting dressed signals that you’re prepared for the day in a way that staying
 
 ***
 
-![STYLE BEE - HOW I STAY PRODUCTIVE WORKING FROM HOME](https://i1.wp.com/www.stylebee.ca/wp-content/uploads/2019/04/StyelBee_DeskProductivity_D.jpg?zoom=2&ssl=1 =750x1125)
+![](https://i.pinimg.com/474x/08/5c/4a/085c4a0b5e68728b77435be6f3f78faf.jpg)
 
 ***
 
@@ -54,7 +54,7 @@ Even if social media is part of your job, it’s important to set very clear bou
 
 ***
 
-![STYLE BEE - HOW I STAY PRODUCTIVE WORKING FROM HOME](https://i1.wp.com/www.stylebee.ca/wp-content/uploads/2019/04/StyelBee_DeskProductivity_G.jpg?zoom=2&ssl=1 =750x500)
+![](https://i.pinimg.com/474x/19/05/7e/19057ea7d9f917e2abdf66ae26c334b1.jpg)
 
 ***
 
@@ -94,7 +94,7 @@ The same theory applies to setting an end time for the day. Working from home it
 
 ***
 
-![STYLE BEE - HOW I STAY PRODUCTIVE WORKING FROM HOME](https://i1.wp.com/www.stylebee.ca/wp-content/uploads/2019/04/StyelBee_DeskProductivity_A.jpg?zoom=2&ssl=1 =750x1125)
+![](https://i.pinimg.com/474x/bc/60/2f/bc602f20188717ca8224be9e925bb03c.jpg)
 
 ***
 
@@ -114,7 +114,7 @@ I also like to break my day up a bit so I’m not sitting at my computer for 8 h
 
 ***
 
-![STYLE BEE - HOW I STAY PRODUCTIVE WORKING FROM HOME](https://i2.wp.com/www.stylebee.ca/wp-content/uploads/2019/04/StyelBee_DeskProductivity_B.jpg?zoom=2&ssl=1 =750x1125)
+![](https://i.pinimg.com/474x/bd/97/4b/bd974babe58d7ce63f12dc5ce84cf335.jpg)
 
 ***
 
@@ -134,7 +134,7 @@ I’m the type that needs to start the day with a clear workspace. Knowing this,
 
 ***
 
-![STYLE BEE - HOW I STAY PRODUCTIVE WORKING FROM HOME](https://i1.wp.com/www.stylebee.ca/wp-content/uploads/2019/04/StyelBee_DeskProductivity_E.jpg?zoom=2&ssl=1 =750x1125)
+![](https://i.pinimg.com/474x/87/c8/cd/87c8cdad119669fb03517e51be4c6f04.jpg)
 
 ***
 
